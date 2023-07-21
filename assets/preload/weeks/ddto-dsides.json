@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["My Streets", "dsidenat", [223, 120, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "natd",
+
+	"storyName": "Dokkan Dokkan!! League Champions",
+	"weekBefore": "tutorial",
+	"weekName": "ddto-dsides",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
